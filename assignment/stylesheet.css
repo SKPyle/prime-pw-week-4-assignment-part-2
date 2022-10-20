@@ -9,11 +9,11 @@ body {
     color: red;
   }
 
-.header {
+header {
     background-color: powderblue;
 }
 
-.info{
+h2{
 background-color: lightgreen;
 text-shadow: 2px 2px 5px red;
 text-align: center;
@@ -25,9 +25,10 @@ text-align: center;
 
 }
 
-.h3{
+h3{
 text-align: center;
 background-color: olive;
 color: bisque;
 
 }
+
